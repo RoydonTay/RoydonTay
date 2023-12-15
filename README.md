@@ -2,14 +2,6 @@
 
 Welcome to my page! I'm a current undergraduate at NUS majoring in Data Science and Analytics. I have a profound passion for leveraging data to inform decision-making and develop products.
 
-## Projects:
-<a href="https://github.com/RoydonTay/Seedly-Articles-RAG">
-  <img align=center src="https://github-readme-stats.vercel.app/api/pin/?username=RoydonTay&repo=Seedly-Articles-RAG" style="height:130px; max-height: 300px; max-width:400px; width: 400px;"/>
-</a>
-<a href="https://github.com/RoydonTay/SG-Property-Price-Prediction">
-  <img align=center src="https://github-readme-stats.vercel.app/api/pin/?username=RoydonTay&repo=SG-Property-Price-Prediction" style="height:130px; max-height: 300px; max-width:400px; width: 400px;"/>
-</a>
-
 ### Things I code with:
 <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white" />
