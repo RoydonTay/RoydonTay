@@ -1,6 +1,6 @@
 ![Banner Image](header.png)
 
-Welcome to my page! I'm a current undergraduate at NUS majoring in Data Science and Analytics. I have a profound passion for leveraging data to inform decision-making and develop products.
+Welcome to my page! I'm a current undergraduate at NUS majoring in Data Science and Analytics. I have a passion for leveraging data to inform decision-making and develop products.
 
 ### Things I code with:
 <p>
