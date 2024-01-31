@@ -1,6 +1,6 @@
 ![Banner Image](header.png)
 
-Welcome to my page! I'm a current undergraduate at NUS majoring in Data Science and Analytics. I am an AI and tech enthusiast with a passion for learning and experimenting with new technologies. My ability to quickly grasp new technologies and concepts allows me to adapt to the ever-evolving tech landscape. I have recently been exploring development with LLMs and using Cloud Solutions such as AWS.
+Welcome to my page! I'm a current undergraduate at NUS majoring in Data Science and Analytics. I am an AI and tech enthusiast with a passion for learning and experimenting with new technologies.
 
 ## My Personal Projects:
 ###
