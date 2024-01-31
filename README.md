@@ -1,6 +1,11 @@
 ![Banner Image](header.png)
 
-Welcome to my page! I'm a current undergraduate at NUS majoring in Data Science and Analytics. I have a passion for leveraging data to inform decision-making and develop products.
+Welcome to my page! I'm a current undergraduate at NUS majoring in Data Science and Analytics. I am an AI and tech enthusiast with a passion for learning and experimenting with new technologies. My ability to quickly grasp new technologies and concepts allows me to adapt to the ever-evolving tech landscape. I have recently been exploring development with LLMs and using Cloud Solutions such as AWS.
+
+## My Personal Projects:
+###
+[![Readme Card](https://github-readme-stats-vert-chi.vercel.app/api/pin/?username=RoydonTay&repo=Seedly-Articles-RAG)](https://github.com/RoydonTay/Seedly-Articles-RAG)
+[![Readme Card](https://github-readme-stats-vert-chi.vercel.app/api/pin/?username=RoydonTay&repo=SG-Property-Price-Prediction)](https://github.com/RoydonTay/SG-Property-Price-Prediction)
 
 ### Things I code with:
 <p>
@@ -19,10 +24,6 @@ Welcome to my page! I'm a current undergraduate at NUS majoring in Data Science 
 <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-ff9100?style=flat-square&logo=TensorFlow&logoColor=white" />
 <img alt="MySQL" src="https://img.shields.io/badge/-MYSQL-3E6E93?style=flat-square&logo=MYSQL&logoColor=white" />
 </p>
-
-## 
-- 🔭 I’m currently working on building LLM applications using LangChain 
-- 🌱 I’m currently learning AWS SDK and Docker
 
 ### Let's Connect:
 
