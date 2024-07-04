@@ -16,9 +16,9 @@ Welcome to my page! I'm a current undergraduate at NUS majoring in Data Science 
 <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-00008B?style=flat-square&logo=NumPy&logoColor=white" />
 <img alt="Scikit-learn" src="https://img.shields.io/badge/-ScikitLearn-ff9c34?style=flat-square&logo=Scikit-learn&logoColor=white" />
 <img alt="Scrapy" src="https://img.shields.io/badge/-Scrapy-60a839?style=flat-square&logo=Scrapy&logoColor=white" />
-<img alt="LangChain" src="https://img.shields.io/badge/-🦜LangChain-abdbe3?style=flat-square&logo=LangChain&logoColor=white" />
+<img alt="LangChain" src="https://img.shields.io/badge/-LangChain-abdbe3?style=flat-square&logo=LangChain&logoColor=black" />
 <img alt="SentenceTransformers" src="https://img.shields.io/badge/-SentenceTransformers-2980b9?style=flat-square&logo=SentenceTransformers&logoColor=white" />
-<img alt="HuggingFace" src="https://img.shields.io/badge/-🤗HuggingFace-aae4e8?style=flat-square&logo=HuggingFace&logoColor=white" />
+<img alt="HuggingFace" src="https://img.shields.io/badge/-HuggingFace-aae4e8?style=flat-square&logo=HuggingFace&logoColor=black" />
 <img alt="R" src="https://img.shields.io/badge/-R-00008B?style=flat-square&logo=R&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-ee4c2c?style=flat-square&logo=PyTorch&logoColor=white" />
