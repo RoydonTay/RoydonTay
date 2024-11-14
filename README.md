@@ -10,9 +10,10 @@ Welcome to my page! I'm a current undergraduate at NUS majoring in Data Science 
 
 ### Things I code with:
 <p>
-<img alt="Python" src="https://img.shields.io/badge/-Python-3776ab?style=flat-square&logo=python&logoColor=white" />
-<img alt="R" src="https://img.shields.io/badge/-R-00008B?style=flat-square&logo=R&logoColor=white" />
-<img alt="MySQL" src="https://img.shields.io/badge/-MYSQL-3E6E93?style=flat-square&logo=MYSQL&logoColor=white" />
+<img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" />
+<img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white" />
+<img alt="Java" src="https://img.shields.io/badge/Java-ED8B00.svg?logo=java&logoColor=white" />
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-00000f.svg?logo=mysql&logoColor=white" />
 <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-0d6efd?style=flat-square&logo=Pandas&logoColor=white" />
 <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-00008B?style=flat-square&logo=NumPy&logoColor=white" />
