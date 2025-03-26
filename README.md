@@ -4,10 +4,10 @@ Welcome to my page! I'm a current undergraduate at NUS majoring in Data Science 
 
 ## My Personal Projects:
 ###
+[![Readme Card](https://github-readme-stats-vert-chi.vercel.app/api/pin/?username=RoydonTay&repo=Pull-Up-Counter)](https://github.com/RoydonTay/Pull-Up-Counter)
 [![Readme Card](https://github-readme-stats-vert-chi.vercel.app/api/pin/?username=RoydonTay&repo=Movie-Review-Sentiment-Analysis)](https://github.com/RoydonTay/Movie-Review-Sentiment-Analysis)
 [![Readme Card](https://github-readme-stats-vert-chi.vercel.app/api/pin/?username=RoydonTay&repo=SG-Property-Price-Prediction)](https://github.com/RoydonTay/SG-Property-Price-Prediction)
 [![Readme Card](https://github-readme-stats-vert-chi.vercel.app/api/pin/?username=RoydonTay&repo=Seedly-Articles-RAG)](https://github.com/RoydonTay/Seedly-Articles-RAG)
-[![Readme Card](https://github-readme-stats-vert-chi.vercel.app/api/pin/?username=RoydonTay&repo=Pull-Up-Counter)](https://github.com/RoydonTay/Pull-Up-Counter)
 
 ### Things I code with:
 <p>
