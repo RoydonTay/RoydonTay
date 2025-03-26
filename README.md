@@ -9,7 +9,7 @@ Welcome to my page! I'm a current undergraduate at NUS majoring in Data Science 
 [![Readme Card](https://github-readme-stats-vert-chi.vercel.app/api/pin/?username=RoydonTay&repo=SG-Property-Price-Prediction)](https://github.com/RoydonTay/SG-Property-Price-Prediction)
 [![Readme Card](https://github-readme-stats-vert-chi.vercel.app/api/pin/?username=RoydonTay&repo=Seedly-Articles-RAG)](https://github.com/RoydonTay/Seedly-Articles-RAG)
 
-### Things I code with:
+### Tools I code with:
 <p>
 <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" />
 <img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white" />
